@@ -1,0 +1,6 @@
+<h2><b>UCC</b></h2>
+<p>Set on 42 acres of wooded ground, only a 10 minute walk from Cork City Centre, our college was established in 1845 after a long campaign for a higher education institution in Munster.</p>
+<img src = "college.jpg" style = "width:100%">
+
+
+

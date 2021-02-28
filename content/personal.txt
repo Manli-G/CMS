@@ -1,0 +1,8 @@
+<h2><b>PERSONAL</b></h2>
+<ul>
+<li><i>Student Number:</i> 119221833</li>
+<li><i>Name:</i>Manli Gao</li>
+<li><i>Qualification:</i> MSc (Interactive Media)</li>
+<li><i>Offering Type:</i> Full Time</li>
+</ul>
+<p style = "border:1px solid #999;padding:10px;">Hey, My name is MANLI GAO! The course which I am learning is MSc Interactive Media. During the course I can find various fun, as it full of audio, video, coding, graphics, etc Knowledge, all of this border my world scale, I pretty enjoy it. This semester we are going to learn following 6 modules.</p>

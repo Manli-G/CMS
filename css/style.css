@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{font-family: arial, sans-serif;font-size:1.4vw;background:#222;
+    }
+.box {width:90%;margin: 0 auto;background: red;margin-top:30px;margin-bottom:10px;}
+.box .nav {width:15%;padding-left:0;float: left;height:640px;border: 1px solid #595959;box-shadow: 0 0 8px #595959;background:#333333;}
+.box .content-box{width:82%;float: left;height:640px;margin-left: 10px;border: 1px solid #f0f0f0;overflow:scroll;box-shadow: 0 0 8px #999;background:#fff;}
+.box .content-box .content{width:100%;}
+.nav .midbox {width: 100%; margin:0 auto;clear: both;}
+.nav .midbox li{float: left;width: 100%; padding:1rem;list-style: none;list-style-type: none;border-bottom:1px solid #333333; box-shadow: 0 1px #404040;box-sizing:border-box;box-sizing:border-box;z-index:999999;}
+.nav .midbox li:hover{background: #595959;color: #fff;}
+.nav .midbox li a{width:100%; display: inline-block;color:#999;text-decoration: none;}
+.nav .midbox li a:hover{color: #fff;}
+.content-box .content{padding:2rem;margin:0 auto;font-size:1.8vw;}
+.content-box .content table tr td {border:1px solid #999;}
+.content-box .content table tr:nth-child(even) {background-color: #f2f2f2;padding: .5rem;}
+.content-box .content table tr:hover{background-color: #f9f9f9;}
+.content-box .content h2 {margin-bottom:30px;}
+.content-box .content P {color:#333;}
+
+    

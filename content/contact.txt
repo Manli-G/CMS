@@ -1,0 +1,23 @@
+
+<h2>CONTACT</h2>
+
+<table style="width:100%;border:1px solid #666">
+    <captian>College: Cork of University</captian>
+    <tr>
+    <th>Name</th>
+    <th colspan="2">Telephone</th>
+  </tr>
+  <tr>
+    <td>Bill Gates</td>
+    <td>55577854</td>
+  </tr>
+  <tr>
+    <td>Bill Gates</td>
+    <td>55577854</td>
+  </tr>
+  <tr>
+    <td>Bill Gates</td>
+    <td>55577854</td>
+  </tr>
+  
+</table>
